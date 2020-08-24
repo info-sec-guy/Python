@@ -30,3 +30,7 @@ In the above example, this command creates a directory called env, which contain
 Activate the Virtual Environment by running: 
 
 `source env/bin/activate`
+
+To exit the Virtual Environment:
+
+`deactivate`
