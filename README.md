@@ -38,4 +38,5 @@ To exit the Virtual Environment:
 External Resources:
 
 [Python Virtual Environments: A Primer](https://realpython.com/python-virtual-environments-a-primer/)
+
 [Creation of virtual environments](https://docs.python.org/3/library/venv.html)
