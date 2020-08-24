@@ -1,6 +1,6 @@
-# Python Things :snake:
+# Python Learning :snake:
 
-## Virtual Environments
+## Virtual Environments (Mac OS)
 
 Create a new virtual environment inside the directory
 
@@ -34,3 +34,7 @@ Activate the Virtual Environment by running:
 To exit the Virtual Environment:
 
 `deactivate`
+
+External Resources:
+
+[Python Virtual Environments: A Primer](https://realpython.com/python-virtual-environments-a-primer/)
